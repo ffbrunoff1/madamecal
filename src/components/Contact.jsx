@@ -293,7 +293,7 @@ export default function Contact() {
                   className={`p-4 rounded-xl flex items-center space-x-2 ${
                     submitStatus === 'success' 
                       ? 'bg-green-100 text-green-800 border border-green-200' 
-                      : 'bg-red-100 text-red-800 border border-red-200'
+                      : 'bg-purple-100 text-purple-800 border border-purple-200'
                   }`}
                 >
                   {submitStatus === 'success' ? (

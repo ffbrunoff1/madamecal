@@ -19,14 +19,14 @@ body {
 }
 
 .text-gradient {
-  background: linear-gradient(135deg, #e4332c 0%, #dc2626 100%);
+  background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
 .hero-gradient {
-  background: linear-gradient(135deg, #fee2e2 0%, #fecaca 50%, #f87171 100%);
+  background: linear-gradient(135deg, #ede9fe 0%, #ddd6fe 50%, #a78bfa 100%);
 }
 
 .card-shadow {
@@ -36,12 +36,12 @@ body {
 }
 
 .btn-primary {
-  background: linear-gradient(135deg, #e4332c 0%, #dc2626 100%);
+  background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%);
   color: white;
   transition: all 0.3s ease;
 }
 
 .btn-primary:hover {
   transform: translateY(-2px);
-  box-shadow: 0 10px 25px rgba(228, 51, 44, 0.4);
+  box-shadow: 0 10px 25px rgba(139, 92, 246, 0.4);
 }
