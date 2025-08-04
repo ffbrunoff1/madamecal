@@ -74,7 +74,7 @@ export default function Footer() {
                 transition={{ duration: 0.3 }}
               >
                 <img 
-                  src="https://qotdwocbcoirjlqjkjhq.supabase.co/storage/v1/object/public/user-files/ad5c31a2-f045-4f97-a0ab-2d4f0e6a69e7/1754269877209_51dhmzr4s7w_Captura_de_Tela_2025-08-03_a_s_22.10.03-removebg-preview.png"
+                  src="https://qotdwocbcoirjlqjkjhq.supabase.co/storage/v1/object/public/user-files/ad5c31a2-f045-4f97-a0ab-2d4f0e6a69e7/1754270045689_6kdhjjyxc6o_Captura_de_Tela_2025-06-27_a_s_19.55.17.png"
                   alt="Madame Cal"
                   className="h-16 w-auto filter invert brightness-0 contrast-100"
                 />
