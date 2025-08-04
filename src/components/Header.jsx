@@ -50,7 +50,7 @@ export default function Header() {
             transition={{ duration: 0.2 }}
           >
             <img 
-              src="https://qotdwocbcoirjlqjkjhq.supabase.co/storage/v1/object/imagens.website.creation/ad5c31a2-f045-4f97-a0ab-2d4f0e6a69e7/logo_1754263260886_0.png"
+              src="https://qotdwocbcoirjlqjkjhq.supabase.co/storage/v1/object/public/user-files/ad5c31a2-f045-4f97-a0ab-2d4f0e6a69e7/1754269877209_51dhmzr4s7w_Captura_de_Tela_2025-08-03_a_s_22.10.03-removebg-preview.png"
               alt="Madame Cal"
               className="h-12 w-auto lg:h-16"
             />
